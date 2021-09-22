@@ -13,10 +13,10 @@ Use a web server to preview the project. Recommended to use XAMMP(https://www.ap
 ![flow](/images/Flowchart_.JPG)
 
 ## UI Design
-![flow](/images/UI Design.JPG)
+![flow](/images/UI_Design.JPG)
 
 ## Sequential Diagram
-![seq](/images/Sequential Diagram.JPG)
+![seq](/images/Sequential_Diagram.JPG)
 
 * Software Used
   * Unity 5: WebGL
