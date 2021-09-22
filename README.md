@@ -18,7 +18,7 @@ Use a web server to preview the project. Recommended to use XAMMP(https://www.ap
 ## Sequential Diagram
 ![seq](/images/Sequential_Diagram.JPG)
 
-* Software Used
+## Software Used
   * Unity 5: WebGL
   * Visual Studio C#:
   * Bootstrap Studio
