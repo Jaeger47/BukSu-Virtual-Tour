@@ -1,0 +1,14 @@
+{
+"companyName": "Jaeger47",
+"productName": "B.V.C(alpha)",
+"dataUrl": "cas.data.unityweb",
+"asmCodeUrl": "cas.asm.code.unityweb",
+"asmMemoryUrl": "cas.asm.memory.unityweb",
+"asmFrameworkUrl": "cas.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"}
+}
