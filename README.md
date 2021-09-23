@@ -6,6 +6,9 @@ Sample Web Application on Capstone project of LITS(Local Information Technology 
   * Jovito Molina
   * Kurt Kimple Martinez
 
+## Screenshots
+![evidence](/images/ezgif.com-video-to-gif.gif) ![evidence](/images/ezgif.com-video-to-gif(1).gif)
+
 Use a web server to preview the project. Recommended to use XAMMP(https://www.apachefriends.org/)
 
 If want to know more about this project or want the project source code email in markdacer21@gmail.com
