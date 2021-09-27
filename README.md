@@ -11,7 +11,7 @@ Sample Web Application on Capstone project of LITS(Local Information Technology 
 
 Use a web server to preview the project. Recommended to use XAMMP(https://www.apachefriends.org/)
 
-If want to know more about this project or want the project source code email in markdacer21@gmail.com
+If want to know more about this project or want the project source code email me @ markdacer21@gmail.com
 
 ## Hardware Requirments
 ![hard_req](/images/hardware_requirments.JPG)
