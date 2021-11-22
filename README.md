@@ -37,3 +37,8 @@ If want to know more about this project or want the project source code email me
   * Gimp
   * Paint.net
   * Blender
+## Screenshots
+![alt text](https://raw.githubusercontent.com/Jaeger47/BukSu-Virtual-Tour/main/screenshots/BVT_1.png "1")
+![alt text](https://raw.githubusercontent.com/Jaeger47/BukSu-Virtual-Tour/main/screenshots/BVT_2.png "2")
+![alt text](https://raw.githubusercontent.com/Jaeger47/BukSu-Virtual-Tour/main/screenshots/BVT_3.png "3")
+![alt text](https://raw.githubusercontent.com/Jaeger47/BukSu-Virtual-Tour/main/screenshots/BVT_4.png "4")
